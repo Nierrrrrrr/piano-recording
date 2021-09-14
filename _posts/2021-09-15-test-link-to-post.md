@@ -9,4 +9,4 @@ tags:
 
 # 測試連結到其他 blog
 
-[[Part 1] 遇見 Delta]({% post_url /Test/2021-09-14-test-post %})
+[[Part 1] 遇見 Delta]({{ site.baseurl }}/{% post_url /Test/2021-09-14-test-post %})
