@@ -9,4 +9,4 @@ tags:
 
 # 測試連結到其他 blog
 
-[[Part 1] 遇見 Delta]({% post_url 2019-04-18-welcome-to-jekyll %})
+[[Part 1] 遇見 Delta]({% post_url /Test/2021-09-14-test-post %})
